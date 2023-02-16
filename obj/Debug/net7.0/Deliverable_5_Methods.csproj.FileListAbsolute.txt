@@ -1,0 +1,15 @@
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/bin/Debug/net7.0/Deliverable_5_Methods
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/bin/Debug/net7.0/Deliverable_5_Methods.deps.json
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/bin/Debug/net7.0/Deliverable_5_Methods.runtimeconfig.json
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/bin/Debug/net7.0/Deliverable_5_Methods.dll
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/bin/Debug/net7.0/Deliverable_5_Methods.pdb
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.csproj.AssemblyReference.cache
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.AssemblyInfoInputs.cache
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.AssemblyInfo.cs
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.csproj.CoreCompileInputs.cache
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.dll
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/refint/Deliverable_5_Methods.dll
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.pdb
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/Deliverable_5_Methods.genruntimeconfig.cache
+/Users/madinakhongiyasova/Desktop/C#/Deliverable_5_Methods/Deliverable_5_Methods/obj/Debug/net7.0/ref/Deliverable_5_Methods.dll
